@@ -10,14 +10,8 @@
 			<groupId>uk.sponte.automation</groupId>
 			<artifactId>selenium-pom</artifactId>
 			<version>1.0.6</version>
-			<scope>test</scope>
 		</dependency>
 		 <dependency>
-           <groupId>com.saucelabs</groupId>
-           <artifactId>saucerest</artifactId>
-           <version>1.0.25</version>
-       </dependency>
-       <dependency>
            <groupId>com.saucelabs</groupId>
            <artifactId>saucerest</artifactId>
            <version>1.0.25</version>
@@ -26,7 +20,6 @@
            <groupId>org.testng</groupId>
            <artifactId>testng</artifactId>
            <version>6.1.1</version>
-           <scope>test</scope>
        </dependency>
 	</dependencies>
 
